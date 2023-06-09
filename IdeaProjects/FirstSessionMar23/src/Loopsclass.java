@@ -114,10 +114,10 @@ public class Loopsclass {
             System.out.println("equal");
         } else {
             if (a > b) {
-                System.out.println("a is greater");
+                System.out.println("a is the greater");
 
             } else {
-                System.out.println("a is lesser");
+                System.out.println("a is the lesser");
             }
 
         }
